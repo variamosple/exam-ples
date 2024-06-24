@@ -4,7 +4,7 @@ This project is a example of a text editors product line.
 
 ## Edit project in VariaMos Framework
 
-1. Go to [VariaMos Framework](https://app.variamos.com/) <a href="https://app.variamos.com/" target="_blank">VariaMos Framework</a>
+1. Open the following link in a new tab <a href="https://app.variamos.com/" target="_blank">VariaMos Framework</a>
 2. Log in as a guest or register using a Google account as shown in the image.
     ![Login](./Images/tutorial/variamos_login.jpg)
 3. Select the "Open project" option (Folder icon), then go to the Templates tab and select the Text Editors project as shown in the image.
