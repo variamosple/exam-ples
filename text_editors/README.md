@@ -1,21 +1,11 @@
 # Text Editors Product Line
 
-This project is a example of a text editors product line.
+This project serves as an example of a text editors product line where the process of transforming requirements into a feature model can be performed.
 
-## Edit project in VariaMos Framework
+## VariaMos Framework
 
-1. Open the following link in a new tab <a href="https://app.variamos.com/" target="_blank">VariaMos Framework</a>
-2. Log in as a guest or register using a Google account as shown in the image.
-
-   ![Login](./Images/tutorial/variamos_login.jpg)
-3. Select the "Open project" option (Folder icon), then go to the Templates tab and select the Text Editors project as shown in the image.
-
-   ![Open Project](./Images/tutorial/variamos_open_project.jpg)
-4. Navigate the project explorer and select the models you wish to view or edit as shown in the figure.
-
-   ![Project Explorer](./Images/tutorial/variamos_project_explorer.jpg)
+If you wish to carry out the transformation process within the VariaMos framework, please refer to the <a href="https://github.com/variamosple/exam-ples/blob/main/text_editors/Guide%20for%20transformation%20from%20SECRET%20model%20to%20Feature%20model%20in%20VariaMos%20framework.pdf" target="_blank">Guide for transformation from SECRET model to Feature model in VariaMos framework</a>.
 
 ## Resources
 
-In the `Images` folder, you will find images of some models of the product line design.
- 
+In the `Images` folder, you will find images of the models of the product line design.
