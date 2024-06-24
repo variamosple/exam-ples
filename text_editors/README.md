@@ -9,3 +9,5 @@ If you wish to carry out the transformation process within the VariaMos framewor
 ## Resources
 
 In the `Images` folder, you will find images of the models of the product line design.
+
+<a href="https://github.com/variamosple/exam-ples/blob/main/text_editors/Text%20editors%20product%20line%20requirements.pdf" target="_blank">Text editors product line requirements</a> contains the specification of all requirements of the product line.
