@@ -4,7 +4,7 @@ This project serves as an example of a text editors product line where the proce
 
 ## VariaMos Framework
 
-If you wish to carry out the transformation process within the VariaMos framework, please refer to the <a href="https://github.com/variamosple/exam-ples/blob/main/text_editors/Guide%20for%20transformation%20from%20SECRET%20model%20to%20Feature%20model%20in%20VariaMos%20framework.pdf" target="_blank">Guide for transformation from SECRET model to Feature model in VariaMos framework</a>.
+If you wish to carry out the transformation process within the VariaMos framework, please download and follow the <a href="https://github.com/variamosple/exam-ples/blob/main/text_editors/Guide%20for%20transformation%20from%20SECRET%20model%20to%20Feature%20model%20in%20VariaMos%20framework.pdf" target="_blank">Guide for transformation from SECRET model to Feature model in VariaMos framework</a>.
 
 ## Resources
 
